@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news_app_ui_setup/screens/wepPage.dart';
+import 'package:news_app_ui_setup/screens/webPage.dart';
 import '../model/article_model.dart';
 
 // cached network image
